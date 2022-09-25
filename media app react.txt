@@ -1,0 +1,42 @@
+========================What i use===================================
+
+1)Mantine to implement modal in react
+
+2)yarn add react-router-dom : to install router
+
+3) yarn add react-input-emoji : for emoji
+
+
+=========server side command (node js)=================
+
+1) npm init
+2) npm i express
+3) npm i mongoose
+4) npm i body-parser //is a midleware//
+5) npm i nodemon
+6) npm i dotenv  //for the connection string
+
+
+npm i timeago.js : to format time (createdat for exemle)
+npm i multer : easy to store multimidia in server
+npm start  : to start server
+npm i jsonwebtoken : to install jwt for auth
+npm i cors : to allow communication between different port
+npm i bcrypt : to crypt the password
+
+=============install redux ===============================
+
+1) npm i redux redux-thunk react-redux
+
+
+========================socket=======================
+
+1)npm init
+2)npm i socket.io nodemon
+
+on client side : 
+yarn add socket.io-client
+=========== to work with request ===================
+
+1 ) npm i axios 
+and add "proxy" : "http://localhost:5000", to package.json
